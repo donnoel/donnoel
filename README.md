@@ -35,7 +35,7 @@ I’m actively building Apple-platform apps, refining my development workflow, a
 ## Portfolio
 
 You can browse my apps and projects here:  
-[Apps Showcase](https://github.com/donnoel/apps-showcase)
+[Apps Showcase](https://main.d3g59tagskgi8.amplifyapp.com)
 
 ## Tech I Use
 
