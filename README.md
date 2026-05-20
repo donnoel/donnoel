@@ -1,8 +1,8 @@
-# Welcome. I’d like to help with your software needs.
+# Practical apps. Clear workflows. Useful software.
 
-I’m Don Noel, a senior systems engineer and independent app builder. I help turn ideas, workflows, and everyday problems into clear, useful software.
+I build apps, tools, and software workflows that help make everyday problems easier to understand, manage, and improve.
 
-My background is rooted in systems engineering, troubleshooting, infrastructure, and practical problem-solving. Today, I apply that same discipline to building apps, tools, and development workflows with a focus on clarity, reliability, privacy, and steady improvement.
+My background is in systems engineering, troubleshooting, infrastructure, and practical problem-solving. That shows up in how I build: clear scope, reliable behavior, privacy-first choices, and steady improvement over noise.
 
 ## How I Can Help
 
