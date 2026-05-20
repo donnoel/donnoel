@@ -1,8 +1,8 @@
-# Practical apps. Clear workflows. Useful software.
+# Practical apps. Clear tools. Useful software.
 
-I build apps, tools, and software workflows that help make everyday problems easier to understand, manage, and improve.
+I build apps and tools that make everyday tasks easier, clearer, and more useful.
 
-My background is in systems engineering, troubleshooting, infrastructure, and practical problem-solving. That shows up in how I build: clear scope, reliable behavior, privacy-first choices, and steady improvement over noise.
+My background is in systems engineering, troubleshooting, infrastructure, and practical problem-solving. That experience shapes how I build: understand the goal, keep the path clear, make careful choices, and create something reliable.
 
 ## How I Can Help
 
