@@ -1,4 +1,4 @@
-# Hi, I’m Don 👋
+# Building useful little engines for Apple platforms 🛠️
 
 I’m a senior systems engineer turned independent app builder. I build thoughtful Apple-platform apps and tools with Swift, SwiftUI, Xcode, and a privacy-first mindset.
 
