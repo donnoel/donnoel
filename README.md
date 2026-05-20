@@ -1,16 +1,23 @@
-# Building thoughtful Apple-platform apps and tools
+# Welcome. I’d like to help with your software needs.
 
-I’m a senior systems engineer turned independent app builder. I build thoughtful Apple-platform apps and tools with Swift, SwiftUI, Xcode, and a privacy-first mindset.
+I’m Don Noel, a senior systems engineer and independent app builder. I help turn ideas, workflows, and everyday problems into clear, useful software.
 
-My work sits at the intersection of:
-- Apple-platform app development
-- systems thinking and practical troubleshooting
-- clean, native UI/UX
-- privacy-conscious, local-first design
-- disciplined development workflows with clear guardrails
-- AI-assisted coding used carefully, not blindly
+My background is rooted in systems engineering, troubleshooting, infrastructure, and practical problem-solving. Today, I apply that same discipline to building apps, tools, and development workflows with a focus on clarity, reliability, privacy, and steady improvement.
 
-## What I Build
+## How I Can Help
+
+I’m especially interested in helping with:
+
+- Apple-platform apps for iPhone, iPad, macOS, and tvOS
+- Swift, SwiftUI, and Xcode-based development
+- app planning, architecture, and feature design
+- small business or personal workflow tools
+- development environment setup and documentation
+- GitHub organization, project structure, and release readiness
+- practical AI-assisted development workflows
+- privacy-first and local-first software ideas
+
+## Current Software Work
 
 ### Live App Store apps
 - **Pause for a Moment** — a calm breathing and mindfulness app for slowing down and resetting.
@@ -19,7 +26,7 @@ My work sits at the intersection of:
 - **Coloring Room** — an iPad-first coloring studio with saved progress, gallery workflows, and drawing refinements.
 - **Easy Units** — a simple, clear unit conversion app.
 
-### Active and evolving work
+### Active and evolving projects
 - **Briefly** — a learning app with AI-generated study decks, flashcards, and quiz-mode work in progress.
 - **Pulseboard** — a map-first natural-events app built around live public data feeds.
 - **Glow for Android** — early Android exploration using the Glow product idea as a real-world learning path.
@@ -30,34 +37,26 @@ My work sits at the intersection of:
 - **The Podium** — a private MotoGP / F1 picks app for friendly personal use.
 - **DevSystem** — a guarded workspace for Mac tooling audits, documentation, and development-environment management.
 
-## Current Focus
-
-I’m building a development environment that helps me work more clearly and consistently:
-
-- repo-specific `AGENTS.md` and `AGENTS.project.md` guardrails
-- app status tracking across my portfolio
-- GitHub Pages privacy policies and support pages
-- validation checklists and repeatable workflows
-- App Store readiness habits
-- GitHub and LinkedIn presentation that matches the actual work
-- practical AI collaboration patterns that reduce confusion instead of adding more noise
-
 ## Portfolio
 
 Browse the public app portfolio here:  
 [Apps Showcase](https://main.d3g59tagskgi8.amplifyapp.com)
 
-## Tech I Use
+## Tools and Technologies
 
 Swift • SwiftUI • Xcode • GitHub • App Store Connect • GitHub Pages • Next.js • AWS Amplify • Kotlin / Jetpack Compose exploration • AI-assisted development workflows
 
-## How I Work
+## Working Style
 
-Small focused diffs.  
-Clean builds.  
-Clear sources of truth.  
-Privacy first.  
-Native platform patterns.  
-Steady progress over chaos.
+I like software that is understandable, useful, and maintainable.
 
-I care about building apps that feel useful, calm, understandable, and intentional.
+My preferred approach is simple:
+
+- understand the problem first
+- keep the scope clear
+- make small, focused changes
+- preserve what already works
+- validate before moving on
+- document the important decisions
+
+If you have a software idea, a workflow that needs simplifying, or a project that needs clearer structure, I’d be glad to help think it through.
