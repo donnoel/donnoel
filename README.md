@@ -20,6 +20,9 @@ I’m especially interested in helping with:
 ## Current Software Work
 
 ### Live App Store apps
+View my App Store apps here:  
+[Don Noel on the App Store](https://apps.apple.com/us/developer/don-noel/id1852862173)
+
 - **Pause for a Moment** — a calm breathing and mindfulness app for slowing down and resetting.
 - **Glow Daily Practice** — a habit-building app focused on progress, consistency, and small wins.
 - **Driftly Night** — a premium ambient visual app for calm motion, gradients, and focus.
