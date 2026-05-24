@@ -46,7 +46,7 @@ View my App Store apps here:
 ## Portfolio
 
 Browse the public app portfolio here:  
-[App Showcase](https://donnoel.github.io/apps-showcase/)
+[App Showcase](https://main.d3g59tagskgi8.amplifyapp.com/)
 
 Repository: [apps-showcase](https://github.com/donnoel/apps-showcase)
 
