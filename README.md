@@ -26,8 +26,8 @@ View my App Store apps here:
   [Project page](https://donnoel.github.io/Pulseboard/)
 - [**Beam**](https://github.com/donnoel/PiSignage) — a Raspberry Pi and web-based digital signage system.  
   [Project page](https://donnoel.github.io/PiSignage/)
-- [**Ticks**](https://github.com/donnoel/Tick) — a simple timekeeping app for tracking project work.  
-  [Project page](https://donnoel.github.io/Tick/)
+- [**Ketch**](https://github.com/donnoel/Ketch) — a SpriteKit reaction game for learning core game-development mechanics.  
+  [Project page](https://donnoel.github.io/Ketch/)
 - **Glow Daily Practice for Android** — an Android version of Glow, currently in development for the Play Store.
 
 ## Personal and Private Tools
@@ -40,6 +40,8 @@ View my App Store apps here:
   [Project page](https://donnoel.github.io/ProjectPilot/)
 - [**The Podium**](https://github.com/donnoel/Chicane) — a private MotoGP / F1 picks app for friendly personal use.  
   [Project page](https://donnoel.github.io/Chicane/)
+- [**Ticks**](https://github.com/donnoel/Tick) — a simple iPhone and iPad timekeeping app for tracking project work.  
+  [Project page](https://donnoel.github.io/Tick/)
 
 ## Portfolio
 
@@ -50,7 +52,7 @@ Repository: [apps-showcase](https://github.com/donnoel/apps-showcase)
 
 ## Tools and Technologies
 
-Swift • SwiftUI • Xcode • GitHub • App Store Connect • GitHub Pages • Next.js • AWS Amplify • Kotlin / Jetpack Compose exploration • Raspberry Pi • AI-assisted development workflows
+Swift • SwiftUI • SpriteKit • Xcode • GitHub • App Store Connect • GitHub Pages • Next.js • AWS Amplify • Kotlin / Jetpack Compose exploration • Raspberry Pi • AI-assisted development workflows
 
 ## Working Style
 
