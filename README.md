@@ -37,10 +37,12 @@ I prefer to:
 - [**Earth Pulse**](https://github.com/donnoel/Pulseboard) - a map-first natural-events app built around live public data feeds. [Project page](https://donnoel.github.io/Pulseboard/)
 - [**Beam**](https://github.com/donnoel/PiSignage) - a Raspberry Pi and web-based digital signage system. [Project page](https://donnoel.github.io/PiSignage/)
 - [**Ketch**](https://github.com/donnoel/Ketch) - a SpriteKit reaction game for learning core game-development mechanics. [Project page](https://donnoel.github.io/Ketch/)
+- **Glow Daily Practice for Android** - an Android version of Glow in development with Kotlin and Jetpack Compose.
 
 ## Focus Areas
 
 - Apple platforms: Swift, SwiftUI, SpriteKit, Xcode, and App Store delivery
+- Android development: Kotlin and Jetpack Compose through Glow Daily Practice for Android
 - Product engineering: clear native interfaces, focused iteration, validation, and GitHub-based delivery
 - Supporting systems: Next.js, AWS Amplify, GitHub Pages, and Raspberry Pi
-- Exploration: Kotlin / Jetpack Compose and AI-assisted development workflows
+- Development workflows: AI-assisted iteration for building and refining practical products
