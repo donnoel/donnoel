@@ -2,7 +2,7 @@
 
 I build practical Apple-platform apps with Swift and SwiftUI, informed by a background in systems engineering, troubleshooting, infrastructure, and reliable delivery.
 
-[App Store Apps](https://apps.apple.com/us/developer/don-noel/id1852862173) | [Portfolio](https://main.d3g59tagskgi8.amplifyapp.com/) | [Portfolio Repository](https://github.com/donnoel/apps-showcase)
+[App Store Apps](https://apps.apple.com/us/developer/don-noel/id1852862173) | [Portfolio](https://main.d3g59tagskgi8.amplifyapp.com/)
 
 ## Selected Shipped Apps
 
