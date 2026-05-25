@@ -1,68 +1,46 @@
-# Practical apps. Clear tools. Useful software.
+# Don Noel
 
-I build apps and tools that make everyday tasks easier, clearer, and more useful.
+I build practical Apple-platform apps with Swift and SwiftUI, informed by a background in systems engineering, troubleshooting, infrastructure, and reliable delivery.
 
-My background is in systems engineering, troubleshooting, infrastructure, and practical problem-solving. That experience shapes how I build: understand the goal, keep the path clear, make careful choices, and create something reliable.
+[App Store Apps](https://apps.apple.com/us/developer/don-noel/id1852862173) | [Portfolio](https://main.d3g59tagskgi8.amplifyapp.com/) | [Portfolio Repository](https://github.com/donnoel/apps-showcase)
 
-## Public Apps
+## Selected Shipped Apps
 
-View my App Store apps here:  
-[Don Noel on the App Store](https://apps.apple.com/us/developer/don-noel/id1852862173)
+- [**Pause for a Moment**](https://github.com/donnoel/Pause) - a calm breathing and mindfulness app designed for quick, focused resets. [Project page](https://donnoel.github.io/Pause/)
+- [**Coloring Room**](https://github.com/donnoel/Coloring) - an iPad-first coloring studio with saved progress, gallery workflows, and Apple Pencil-focused drawing refinements. [Project page](https://donnoel.github.io/Coloring/)
+- [**Easy Units**](https://github.com/donnoel/Conversion) - a fast, friendly unit conversion app built for everyday clarity. [Project page](https://donnoel.github.io/Conversion/)
+- [**Driftly Night**](https://github.com/donnoel/Driftly) - an ambient visual app for calm motion, gradients, and unwinding on iPhone, iPad, and Apple TV. [Project page](https://donnoel.github.io/Driftly/)
+- [**Glow Daily Practice**](https://github.com/donnoel/Glow) - a habit-building app focused on progress, consistency, and small wins. [Project page](https://donnoel.github.io/Glow/)
 
-- [**Pause for a Moment**](https://github.com/donnoel/Pause) — a calm breathing and mindfulness app for slowing down and resetting.  
-  [Project page](https://donnoel.github.io/Pause/)
-- [**Glow Daily Practice**](https://github.com/donnoel/Glow) — a habit-building app focused on progress, consistency, and small wins.  
-  [Project page](https://donnoel.github.io/Glow/)
-- [**Driftly Night**](https://github.com/donnoel/Driftly) — an ambient visual app for calm motion, gradients, and unwinding on iPhone, iPad, and Apple TV.  
-  [Project page](https://donnoel.github.io/Driftly/)
-- [**Coloring Room**](https://github.com/donnoel/Coloring) — an iPad-first coloring studio with saved progress, gallery workflows, and drawing refinements.  
-  [Project page](https://donnoel.github.io/Coloring/)
-- [**Easy Units**](https://github.com/donnoel/Conversion) — a fast, friendly unit conversion app for everyday use.  
-  [Project page](https://donnoel.github.io/Conversion/)
+## How I Work
+
+My systems background shapes how I build products: understand the real problem, keep the path clear, make careful choices, and create something reliable.
+
+I prefer to:
+
+- build understandable, useful, maintainable software
+- keep scope clear and changes focused
+- preserve what already works
+- validate before moving on
+- document decisions that matter
+
+## Tools and Explorations
+
+- [**Project Pilot**](https://github.com/donnoel/ProjectPilot) - a macOS utility for generating new Xcode projects from a known-good template. [Project page](https://donnoel.github.io/ProjectPilot/)
+- [**Loom**](https://github.com/donnoel/Loom) - a local-first macOS workspace for experimenting with local LLM workflows. [Project page](https://donnoel.github.io/Loom/)
+- [**Briefly**](https://github.com/donnoel/Briefly) - a learning app with AI-generated study decks, flashcards, and quiz-mode work in progress. [Project page](https://donnoel.github.io/Briefly/)
+- [**Ticks**](https://github.com/donnoel/Tick) - a simple iPhone and iPad timekeeping app for tracking project work. [Project page](https://donnoel.github.io/Tick/)
+- [**The Podium**](https://github.com/donnoel/Chicane) - a private MotoGP / F1 picks app for friendly personal use. [Project page](https://donnoel.github.io/Chicane/)
 
 ## In Development
 
-- [**Earth Pulse**](https://github.com/donnoel/Pulseboard) — a map-first natural-events app built around live public data feeds.  
-  [Project page](https://donnoel.github.io/Pulseboard/)
-- [**Beam**](https://github.com/donnoel/PiSignage) — a Raspberry Pi and web-based digital signage system.  
-  [Project page](https://donnoel.github.io/PiSignage/)
-- [**Ketch**](https://github.com/donnoel/Ketch) — a SpriteKit reaction game for learning core game-development mechanics.  
-  [Project page](https://donnoel.github.io/Ketch/)
-- **Glow Daily Practice for Android** — an Android version of Glow, currently in development for the Play Store.
+- [**Earth Pulse**](https://github.com/donnoel/Pulseboard) - a map-first natural-events app built around live public data feeds. [Project page](https://donnoel.github.io/Pulseboard/)
+- [**Beam**](https://github.com/donnoel/PiSignage) - a Raspberry Pi and web-based digital signage system. [Project page](https://donnoel.github.io/PiSignage/)
+- [**Ketch**](https://github.com/donnoel/Ketch) - a SpriteKit reaction game for learning core game-development mechanics. [Project page](https://donnoel.github.io/Ketch/)
 
-## Personal and Private Tools
+## Focus Areas
 
-- [**Briefly**](https://github.com/donnoel/Briefly) — a learning app with AI-generated study decks, flashcards, and quiz-mode work in progress.  
-  [Project page](https://donnoel.github.io/Briefly/)
-- [**Loom**](https://github.com/donnoel/Loom) — a local-first macOS workspace for experimenting with local LLM workflows.  
-  [Project page](https://donnoel.github.io/Loom/)
-- [**Project Pilot**](https://github.com/donnoel/ProjectPilot) — a macOS utility for generating new Xcode projects from a known-good template.  
-  [Project page](https://donnoel.github.io/ProjectPilot/)
-- [**The Podium**](https://github.com/donnoel/Chicane) — a private MotoGP / F1 picks app for friendly personal use.  
-  [Project page](https://donnoel.github.io/Chicane/)
-- [**Ticks**](https://github.com/donnoel/Tick) — a simple iPhone and iPad timekeeping app for tracking project work.  
-  [Project page](https://donnoel.github.io/Tick/)
-
-## Portfolio
-
-Browse the public app portfolio here:  
-[App Showcase](https://main.d3g59tagskgi8.amplifyapp.com/)
-
-Repository: [apps-showcase](https://github.com/donnoel/apps-showcase)
-
-## Tools and Technologies
-
-Swift • SwiftUI • SpriteKit • Xcode • GitHub • App Store Connect • GitHub Pages • Next.js • AWS Amplify • Kotlin / Jetpack Compose exploration • Raspberry Pi • AI-assisted development workflows
-
-## Working Style
-
-I like software that is understandable, useful, and maintainable.
-
-My preferred approach is simple:
-
-- understand the problem first
-- keep the scope clear
-- make small, focused changes
-- preserve what already works
-- validate before moving on
-- document the important decisions
+- Apple platforms: Swift, SwiftUI, SpriteKit, Xcode, and App Store delivery
+- Product engineering: clear native interfaces, focused iteration, validation, and GitHub-based delivery
+- Supporting systems: Next.js, AWS Amplify, GitHub Pages, and Raspberry Pi
+- Exploration: Kotlin / Jetpack Compose and AI-assisted development workflows
