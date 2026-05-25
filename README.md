@@ -37,7 +37,7 @@ I prefer to:
 - [**Earth Pulse**](https://github.com/donnoel/Pulseboard) - a map-first natural-events app built around live public data feeds. [Project page](https://donnoel.github.io/Pulseboard/)
 - [**Beam**](https://github.com/donnoel/PiSignage) - a Raspberry Pi and web-based digital signage system. [Project page](https://donnoel.github.io/PiSignage/)
 - [**Ketch**](https://github.com/donnoel/Ketch) - a SpriteKit reaction game for learning core game-development mechanics. [Project page](https://donnoel.github.io/Ketch/)
-- **Glow Daily Practice for Android** - an Android version of Glow in development with Kotlin and Jetpack Compose.
+- [**Glow Daily Practice for Android**](https://github.com/donnoel/GlowAndroid) - an Android version of Glow in development with Kotlin and Jetpack Compose.
 
 ## Focus Areas
 
