@@ -14,7 +14,7 @@ I build practical software across Apple platforms, Android, the web, and Raspber
 - [**Coloring Room**](https://github.com/donnoel/Coloring) — an iPad-first Apple Pencil studio for coloring, organizing, and sharing artwork. [Project page](https://donnoel.github.io/Coloring/) · [App Store](https://apps.apple.com/us/app/coloring-room/id6761619332)
 - [**Easy Units**](https://github.com/donnoel/Conversion) — fast, reversible conversions and a one-input, multi-unit toolkit. [Project page](https://donnoel.github.io/Conversion/) · [App Store](https://apps.apple.com/us/app/easy-units/id6761770180)
 
-## Building and Using
+## Current Projects
 
 - [**Agents House**](https://github.com/donnoel/AgentsHouse) — a native macOS foundation for small AI residents with visible requests, permissions, and accountability. [Project page](https://donnoel.github.io/AgentsHouse/)
 - [**Beam**](https://github.com/donnoel/PiSignage) — a local-first Raspberry Pi digital signage system built around reliable playback, recovery, and clear operations. [Project page](https://donnoel.github.io/PiSignage/)
