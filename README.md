@@ -1,48 +1,38 @@
 # Don Noel
 
-I build practical Apple-platform apps with Swift and SwiftUI, informed by a background in systems engineering, troubleshooting, infrastructure, and reliable delivery.
+I build practical software across Apple platforms, Android, the web, and Raspberry Pi. My background in systems engineering, troubleshooting, infrastructure, and reliable delivery shapes how I approach every product: keep the purpose clear, make the state visible, and build the smallest thing that works well.
 
-[App Store Apps](https://apps.apple.com/us/developer/don-noel/id1852862173) | [Portfolio](https://main.d3g59tagskgi8.amplifyapp.com/)
+[**Don Builds**](https://main.d3g59tagskgi8.amplifyapp.com/) — the complete portfolio, hosted on AWS
 
-## Selected Shipped Apps
+[**App Store**](https://apps.apple.com/us/developer/don-noel/id1852862173) — shipped apps for iPhone, iPad, and Apple TV
 
-- [**Pause for a Moment**](https://github.com/donnoel/Pause) - a calm breathing and mindfulness app designed for quick, focused resets. [Project page](https://donnoel.github.io/Pause/)
-- [**Coloring Room**](https://github.com/donnoel/Coloring) - an iPad-first coloring studio with saved progress, gallery workflows, and Apple Pencil-focused drawing refinements. [Project page](https://donnoel.github.io/Coloring/)
-- [**Easy Units**](https://github.com/donnoel/Conversion) - a fast, friendly unit conversion app built for everyday clarity. [Project page](https://donnoel.github.io/Conversion/)
-- [**Driftly Night**](https://github.com/donnoel/Driftly) - an ambient visual app for calm motion, gradients, and unwinding on iPhone, iPad, and Apple TV. [Project page](https://donnoel.github.io/Driftly/)
-- [**Glow Daily Practice**](https://github.com/donnoel/Glow) - a habit-building app focused on progress, consistency, and small wins. [Project page](https://donnoel.github.io/Glow/)
+## Shipped on the App Store
 
-## How I Work
+- [**Pause for a Moment**](https://github.com/donnoel/Pause) — a minimal mindfulness timer with breathing guidance, calm rituals, and session insights. [Project page](https://donnoel.github.io/Pause/) · [App Store](https://apps.apple.com/us/app/pause-for-a-moment/id6755661954)
+- [**Glow Daily Practice**](https://github.com/donnoel/Glow) — a calm habit tracker built around daily rhythm, visible momentum, reminders, and widgets. [Project page](https://donnoel.github.io/Glow/) · [App Store](https://apps.apple.com/us/app/glow-daily-practice/id6755254758)
+- [**Driftly Night**](https://github.com/donnoel/Driftly) — generative ambient motion and liquid color for iPhone, iPad, and Apple TV. [Project page](https://donnoel.github.io/Driftly/) · [App Store](https://apps.apple.com/us/app/driftly-night/id6758164205)
+- [**Coloring Room**](https://github.com/donnoel/Coloring) — an iPad-first Apple Pencil studio for coloring, organizing, and sharing artwork. [Project page](https://donnoel.github.io/Coloring/) · [App Store](https://apps.apple.com/us/app/coloring-room/id6761619332)
+- [**Easy Units**](https://github.com/donnoel/Conversion) — fast, reversible conversions and a one-input, multi-unit toolkit. [Project page](https://donnoel.github.io/Conversion/) · [App Store](https://apps.apple.com/us/app/easy-units/id6761770180)
 
-My systems background shapes how I build products: understand the real problem, keep the path clear, make careful choices, and create something reliable.
+## Building and Using
 
-I prefer to:
+- [**Agents House**](https://github.com/donnoel/AgentsHouse) — a native macOS foundation for small AI residents with visible requests, permissions, and accountability. [Project page](https://donnoel.github.io/AgentsHouse/)
+- [**Beam**](https://github.com/donnoel/PiSignage) — a local-first Raspberry Pi digital signage system built around reliable playback, recovery, and clear operations. [Project page](https://donnoel.github.io/PiSignage/)
+- [**Briefly**](https://github.com/donnoel/Briefly) — focused topic packs, study sessions, progress, and reviewed content generation. [Project page](https://donnoel.github.io/Briefly/)
+- [**Chicane**](https://github.com/donnoel/Chicane) — friendly Formula 1 and MotoGP podium picks with exact scoring. [Project page](https://donnoel.github.io/Chicane/)
+- [**Glow for Android**](https://github.com/donnoel/GlowAndroid) — an in-development Jetpack Compose translation of Glow's daily-practice rhythm. [Project page](https://donnoel.github.io/GlowAndroid/)
+- [**Ketch**](https://github.com/donnoel/Ketch) — a beginner-friendly SpriteKit catch game with one clear arcade loop. [Project page](https://donnoel.github.io/Ketch/)
+- [**Loom**](https://github.com/donnoel/Loom) — a private, offline-first local AI workspace for macOS. [Project page](https://donnoel.github.io/Loom/)
+- [**Project Pilot**](https://github.com/donnoel/ProjectPilot) — a macOS menu-bar utility for creating known-good Xcode projects from a golden template. [Project page](https://donnoel.github.io/ProjectPilot/)
+- [**Pulseboard**](https://github.com/donnoel/Pulseboard) — a map-first view of live public safety signals around the world. [Project page](https://donnoel.github.io/Pulseboard/)
+- [**Tick**](https://github.com/donnoel/Tick) — lightweight timekeeping for seeing how long projects and spaces actually take. [Project page](https://donnoel.github.io/Tick/)
 
-- build understandable, useful, maintainable software
-- keep scope clear and changes focused
-- preserve what already works
-- validate before moving on
-- document decisions that matter
+## How I Build
 
-## Tools and Explorations
+- Swift, SwiftUI, SpriteKit, Xcode, and App Store delivery
+- Kotlin and Jetpack Compose for Android
+- Next.js, AWS, GitHub Pages, and Raspberry Pi systems
+- Local-first architecture, focused iteration, accessibility, and reliable recovery
+- AI-assisted development with visible boundaries and human review
 
-- [**Project Pilot**](https://github.com/donnoel/ProjectPilot) - a macOS utility for generating new Xcode projects from a known-good template. [Project page](https://donnoel.github.io/ProjectPilot/)
-- [**Loom**](https://github.com/donnoel/Loom) - a local-first macOS workspace for experimenting with local LLM workflows. [Project page](https://donnoel.github.io/Loom/)
-- [**Briefly**](https://github.com/donnoel/Briefly) - a learning app with AI-generated study decks, flashcards, and quiz-mode work in progress. [Project page](https://donnoel.github.io/Briefly/)
-- [**Ticks**](https://github.com/donnoel/Tick) - a simple iPhone and iPad timekeeping app for tracking project work. [Project page](https://donnoel.github.io/Tick/)
-- [**The Podium**](https://github.com/donnoel/Chicane) - a private MotoGP / F1 picks app for friendly personal use. [Project page](https://donnoel.github.io/Chicane/)
-
-## In Development
-
-- [**Earth Pulse**](https://github.com/donnoel/Pulseboard) - a map-first natural-events app built around live public data feeds. [Project page](https://donnoel.github.io/Pulseboard/)
-- [**Beam**](https://github.com/donnoel/PiSignage) - a Raspberry Pi and web-based digital signage system. [Project page](https://donnoel.github.io/PiSignage/)
-- [**Ketch**](https://github.com/donnoel/Ketch) - a SpriteKit reaction game for learning core game-development mechanics. [Project page](https://donnoel.github.io/Ketch/)
-- [**Glow Daily Practice for Android**](https://github.com/donnoel/GlowAndroid) - an Android version of Glow in development with Kotlin and Jetpack Compose.
-
-## Focus Areas
-
-- Apple platforms: Swift, SwiftUI, SpriteKit, Xcode, and App Store delivery
-- Android development: Kotlin and Jetpack Compose through Glow Daily Practice for Android
-- Product engineering: clear native interfaces, focused iteration, validation, and GitHub-based delivery
-- Supporting systems: Next.js, AWS Amplify, GitHub Pages, and Raspberry Pi
-- Development workflows: AI-assisted iteration for building and refining practical products
+I prefer understandable, maintainable software; small focused changes; honest product states; and validation before moving on.
