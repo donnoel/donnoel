@@ -2,8 +2,6 @@
 
 I build practical software across Apple platforms, Android, the web, and Raspberry Pi. My background in systems engineering, troubleshooting, infrastructure, and reliable delivery shapes how I approach every product: keep the purpose clear, make the state visible, and build the smallest thing that works well.
 
-[**Don Builds**](https://main.d3g59tagskgi8.amplifyapp.com/) — the complete portfolio, hosted on AWS
-
 [**App Store**](https://apps.apple.com/us/developer/don-noel/id1852862173) — shipped apps for iPhone, iPad, and Apple TV
 
 ## Shipped on the App Store
