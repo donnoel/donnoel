@@ -15,7 +15,7 @@ I build practical software across Apple platforms, Android, the web, and Raspber
 ## Current Projects
 
 - [**Agents House**](https://github.com/donnoel/AgentsHouse) — a native macOS foundation for small AI residents with visible requests, permissions, and accountability. [Project page](https://donnoel.github.io/AgentsHouse/)
-- [**Beam**](https://github.com/donnoel/PiSignage) — a local-first Raspberry Pi digital signage system built around reliable playback, recovery, and clear operations. [Project page](https://donnoel.github.io/PiSignage/)
+- [**Beam**](https://github.com/donnoel/Beam) — a local-first Raspberry Pi digital signage system built around reliable playback, recovery, and clear operations. [Project page](https://beamscreens.com/)
 - [**Briefly**](https://github.com/donnoel/Briefly) — focused topic packs, study sessions, progress, and reviewed content generation. [Project page](https://donnoel.github.io/Briefly/)
 - [**Chicane**](https://github.com/donnoel/Chicane) — friendly Formula 1 and MotoGP podium picks with exact scoring. [Project page](https://donnoel.github.io/Chicane/)
 - [**Glow for Android**](https://github.com/donnoel/GlowAndroid) — an in-development Jetpack Compose translation of Glow's daily-practice rhythm. [Project page](https://donnoel.github.io/GlowAndroid/)
