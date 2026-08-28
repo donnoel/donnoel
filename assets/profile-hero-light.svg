@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+  <title id="title">Don Noel</title>
+  <desc id="description">Practical software, calm interfaces, and reliable systems.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F8F5EF"/><stop offset="1" stop-color="#E9F0F2"/></linearGradient>
+    <linearGradient id="warm" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFB36B"/><stop offset="1" stop-color="#EA6A47"/></linearGradient>
+    <linearGradient id="cool" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#84D5D0"/><stop offset="1" stop-color="#407FA1"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#26333B" flood-opacity=".13"/></filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#26333B" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#background)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <circle cx="1070" cy="30" r="170" fill="#84D5D0" opacity=".17"/>
+  <circle cx="1125" cy="330" r="120" fill="#FFB36B" opacity=".2"/>
+  <g transform="translate(74 82)">
+    <path d="M0 2h54c66 0 109 39 109 97s-43 97-109 97H0V2Zm54 145c32 0 54-17 54-48S86 51 54 51H52v96h2Z" fill="#17252E"/>
+    <path d="M190 2h52l71 108V2h52v194h-49l-74-111v111h-52V2Z" fill="#17252E"/>
+    <rect y="222" width="365" height="4" rx="2" fill="url(#warm)"/>
+    <text x="0" y="267" fill="#40515A" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="18" font-weight="650" letter-spacing="2.8">DON NOEL</text>
+  </g>
+  <g transform="translate(746 55)" filter="url(#shadow)">
+    <rect x="96" y="0" width="244" height="156" rx="20" fill="#FFFFFF" stroke="#D9E1E3" stroke-width="2"/>
+    <rect x="116" y="20" width="204" height="96" rx="10" fill="#17252E"/>
+    <path d="M136 92c29-35 54-4 82-36 27-31 47 11 82-13v53H136V92Z" fill="url(#cool)"/>
+    <circle cx="150" cy="43" r="9" fill="#FFB36B"/>
+    <rect x="199" y="130" width="38" height="6" rx="3" fill="#D4DDDF"/>
+    <rect x="183" y="148" width="70" height="8" rx="4" fill="#C2CED1"/>
+    <g transform="translate(0 94)">
+      <rect width="132" height="208" rx="28" fill="#FFFFFF" stroke="#D9E1E3" stroke-width="2"/>
+      <rect x="12" y="27" width="108" height="154" rx="17" fill="#EDF2F3"/>
+      <circle cx="66" cy="91" r="39" fill="none" stroke="url(#warm)" stroke-width="13"/>
+      <circle cx="66" cy="91" r="12" fill="#17252E"/>
+      <rect x="43" y="193" width="46" height="5" rx="2.5" fill="#C2CED1"/>
+    </g>
+    <g transform="translate(260 178)">
+      <path d="M0 44 67 0l67 44v78a14 14 0 0 1-14 14H14a14 14 0 0 1-14-14V44Z" fill="#FFFFFF" stroke="#D9E1E3" stroke-width="2"/>
+      <circle cx="42" cy="68" r="13" fill="#84D5D0"/><circle cx="92" cy="68" r="13" fill="#FFB36B"/>
+      <path d="M42 81v22m50-22v22M42 92h50" fill="none" stroke="#17252E" stroke-width="5" stroke-linecap="round"/>
+    </g>
+  </g>
+</svg>
