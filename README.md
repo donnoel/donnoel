@@ -75,7 +75,7 @@
 
 ## Portfolio status
 
-<p><sub>Status snapshot · October 2026. Private products are named without exposing their repositories or operating infrastructure.</sub></p>
+<p><sub>Status snapshot · October 18, 2026. Private products are named without exposing their repositories or operating infrastructure.</sub></p>
 
 ### Shipping and operating
 
@@ -90,21 +90,31 @@
 
 - <code>PRE-RELEASE</code> **Puzzles Puzzles Puzzles (Mosa)** — Private native and web product for designing, ordering, and safely fulfilling personalized photo puzzles.
 - <code>DEVELOPMENT</code> **Dayhand** — Private platform for bounded digital employees with visible work, evidence, permissions, and human accountability.
-- <code>PILOT</code> **Red Ridge Fire Company** — Private fire-response workflow for individual OF-297 entry, review, approval, and controlled finance handoff.
-- <code>ACTIVE</code> [**Tonight**](https://github.com/donnoel/Tonight) — iPad-first personal movie recommendations from a user-owned library.
+- <code>PILOT</code> **Red Ridge Fire Company** — Private fire-response workflow with completed demo implementation for individual OF-297 entry, review, approval, and controlled finance handoff. Client commercial approval remains unconfirmed.
+- <code>ACTIVE</code> [**Tonight**](https://github.com/donnoel/Tonight) — iPad-first personal movie recommendations from a user-owned library with implemented private CloudKit library sync.
 - <code>ACTIVE</code> [**Chicane**](https://github.com/donnoel/Chicane) — Friendly Formula 1 and MotoGP podium picks with exact scoring. [Project page](https://donnoel.github.io/Chicane/)
-- <code>ACTIVE</code> [**Tick**](https://github.com/donnoel/Tick) — Lightweight timekeeping for understanding where time goes. [Project page](https://donnoel.github.io/Tick/)
-- <code>IN DEVELOPMENT</code> [**Glow for Android**](https://github.com/donnoel/GlowAndroid) — Jetpack Compose translation of Glow's daily-practice rhythm. [Project page](https://donnoel.github.io/GlowAndroid/)
 
-### Labs, tools, and earlier projects
+### Completed current work
 
-- <code>EXPLORATION</code> [**Agents House**](https://github.com/donnoel/AgentsHouse) — Permission-bounded AI residents for macOS. [Project page](https://donnoel.github.io/AgentsHouse/)
-- <code>EXPLORATION</code> [**Briefly**](https://github.com/donnoel/Briefly) — Focused study decks, sessions, and reviewed content generation. [Project page](https://donnoel.github.io/Briefly/)
-- <code>LEARNING PROJECT</code> [**Ketch**](https://github.com/donnoel/Ketch) — A small SpriteKit arcade loop. [Project page](https://donnoel.github.io/Ketch/)
+Don confirmed Tick and ProjectPilot complete on October 18, 2026, with nothing outstanding from his perspective. These labels record owner closeout, not a new release or independently performed acceptance tests.
+
+- <code>OWNER-CONFIRMED COMPLETE</code> [**Tick**](https://github.com/donnoel/Tick) — Timekeeping across iPhone, iPad, Apple Watch, and its Mac companion, with shareable Space reports.
+- <code>OWNER-CONFIRMED COMPLETE</code> [**Project Pilot**](https://github.com/donnoel/ProjectPilot) — macOS menu-bar tool for Ticks, Codex usage, GitHub CI, development backups, and system health.
+
+### Labs and tools
+
 - <code>EXPLORATION</code> [**Loom**](https://github.com/donnoel/Loom) — Private, offline-first local AI workspace for macOS. [Project page](https://donnoel.github.io/Loom/)
-- <code>TOOL</code> [**Project Pilot**](https://github.com/donnoel/ProjectPilot) — macOS menu-bar utility for creating known-good Xcode projects. [Project page](https://donnoel.github.io/ProjectPilot/)
-- <code>EXPLORATION</code> [**Pulseboard**](https://github.com/donnoel/Pulseboard) — Map-first view of live public safety and natural-event signals. [Project page](https://donnoel.github.io/Pulseboard/)
-- <code>PERSONAL PROJECT</code> [**Garmin Watch Faces**](https://github.com/donnoel/Garmin) — Custom Connect IQ watch-face experiments.
+
+### Archived projects
+
+Archived on October 18, 2026; code, history, public visibility, and issues are preserved. Archiving does not mean unresolved bugs were fixed.
+
+- <code>ARCHIVED</code> [**Agents House**](https://github.com/donnoel/AgentsHouse) — Permission-bounded AI residents for macOS. [Project page](https://donnoel.github.io/AgentsHouse/)
+- <code>ARCHIVED</code> [**Briefly**](https://github.com/donnoel/Briefly) — Focused study decks, sessions, and reviewed content generation. [Project page](https://donnoel.github.io/Briefly/)
+- <code>ARCHIVED</code> [**Ketch**](https://github.com/donnoel/Ketch) — A small SpriteKit arcade loop. [Project page](https://donnoel.github.io/Ketch/)
+- <code>ARCHIVED</code> [**Pulseboard**](https://github.com/donnoel/Pulseboard) — Map-first view of live public safety and natural-event signals. [Project page](https://donnoel.github.io/Pulseboard/)
+- <code>ARCHIVED</code> [**Garmin Watch Faces**](https://github.com/donnoel/Garmin) — Custom Connect IQ watch-face experiments.
+- <code>ARCHIVED</code> [**Glow for Android**](https://github.com/donnoel/GlowAndroid) — Jetpack Compose translation of Glow's daily-practice rhythm. [Project page](https://donnoel.github.io/GlowAndroid/)
 
 ## How I build
 
