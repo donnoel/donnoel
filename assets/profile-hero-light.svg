@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
   <title id="title">Don Noel</title>
-  <desc id="description">Practical software, calm interfaces, and reliable systems.</desc>
+  <desc id="description">Practical products, shipped apps, and reliable systems.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F8F5EF"/><stop offset="1" stop-color="#E9F0F2"/></linearGradient>
     <linearGradient id="warm" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFB36B"/><stop offset="1" stop-color="#EA6A47"/></linearGradient>
@@ -32,10 +32,10 @@
       <circle cx="66" cy="91" r="12" fill="#17252E"/>
       <rect x="43" y="193" width="46" height="5" rx="2.5" fill="#C2CED1"/>
     </g>
-    <g transform="translate(260 178)">
-      <path d="M0 44 67 0l67 44v78a14 14 0 0 1-14 14H14a14 14 0 0 1-14-14V44Z" fill="#FFFFFF" stroke="#D9E1E3" stroke-width="2"/>
-      <circle cx="42" cy="68" r="13" fill="#84D5D0"/><circle cx="92" cy="68" r="13" fill="#FFB36B"/>
-      <path d="M42 81v22m50-22v22M42 92h50" fill="none" stroke="#17252E" stroke-width="5" stroke-linecap="round"/>
+    <g transform="translate(260 168)">
+      <rect width="134" height="136" rx="30" fill="#FF624B" stroke="#E7513E" stroke-width="2"/>
+      <path d="M27 27h34c0 10 7 17 17 17s17-7 17-17h12v31c10 0 17 7 17 17s-7 17-17 17v17H80c0-10-7-17-17-17s-17 7-17 17H27V91c10 0 17-7 17-17s-7-17-17-17V27Z" fill="#FFF8EE"/>
+      <path d="M81 25h28a12 12 0 0 1 12 12v27c-9 0-15 6-15 15s6 15 15 15v8H92c0-9-6-15-15-15s-15 6-15 15h-8V75c9 0 15-6 15-15s-6-15-15-15v-8h27V25Z" fill="#172E4D" opacity=".96"/>
     </g>
   </g>
 </svg>

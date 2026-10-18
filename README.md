@@ -1,49 +1,47 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/profile-hero-light.svg">
-  <img alt="Don Noel — practical software, calm interfaces, and reliable systems" src="./assets/profile-hero-light.svg" width="100%">
+  <img alt="Don Noel — practical products, shipped apps, and reliable systems" src="./assets/profile-hero-light.svg" width="100%">
 </picture>
 
 <p align="center">
-  I build thoughtful products for Apple platforms, Android, the web, and Raspberry Pi.<br>
-  Clear purpose, visible state, and the smallest thing that works well.
+  I build practical products across Apple platforms, the web, and connected devices.<br>
+  From shipped apps to field systems, the work stays focused, visible, and reliable.
 </p>
 
 <p align="center">
-  <a href="https://apps.apple.com/us/developer/don-noel/id1852862173"><strong>App Store</strong></a>
+  <a href="#spotlight"><strong>Spotlight</strong></a>
   &nbsp;·&nbsp;
-  <a href="#featured-work"><strong>Featured work</strong></a>
+  <a href="#portfolio-status"><strong>Portfolio status</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://apps.apple.com/us/developer/don-noel/id1852862173"><strong>App Store</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/donnoel?tab=repositories"><strong>All repositories</strong></a>
 </p>
 
 <br>
 
-## Featured work
+## Spotlight
 
-<h3><img src="./assets/apps/coloring.png" width="48" alt="Coloring Room app icon" align="middle">&nbsp; Coloring Room</h3>
+<h3><img src="./assets/apps/beam.svg" width="52" alt="Beam project mark" align="middle">&nbsp; Beam</h3>
 
-<p><em>Shipped · iPad and Apple Pencil</em><br>
-A focused coloring studio with resilient saved progress, thoughtful organization, and natural Pencil-first drawing.<br>
+<p><code>OPERATIONAL</code> <code>PRODUCTION ROLLOUT</code></p>
+
+<p>Local-first digital signage spanning a web operations console, a native iPhone and iPad companion, and resilient Raspberry Pi Players. The first customer installation is signed off, and controlled expansion is underway.<br>
+<a href="https://donnoel.github.io/beamscreens/"><strong>Public project page</strong></a> · <a href="https://github.com/donnoel/beamscreens">Public overview</a></p>
+
+<h3><img src="./assets/apps/puzzles.png" width="52" alt="Puzzles Puzzles Puzzles app icon" align="middle">&nbsp; Puzzles Puzzles Puzzles <sub>(Mosa)</sub></h3>
+
+<p><code>PRE-RELEASE</code> <code>PRIVATE BUILD</code></p>
+
+<p>A personalized photo-puzzle product with native iPhone and iPad creation, a web designer, server-rendered print artwork, guarded checkout, and human-approved fulfillment. The current work is preparing the product and its operating environment for submission and release.</p>
+
+<h3><img src="./assets/apps/coloring.png" width="52" alt="Coloring Room app icon" align="middle">&nbsp; Coloring Room</h3>
+
+<p><code>SHIPPED</code> <code>APP STORE</code></p>
+
+<p>An iPad-first Apple Pencil studio for coloring, organizing, and sharing artwork, with resilient saved progress and private iCloud recovery.<br>
 <a href="https://donnoel.github.io/Coloring/"><strong>Project page</strong></a> · <a href="https://apps.apple.com/us/app/coloring-room/id6761619332">App Store</a> · <a href="https://github.com/donnoel/Coloring">Source</a></p>
-
-<h3><img src="./assets/apps/glow.png" width="48" alt="Glow Daily Practice app icon" align="middle">&nbsp; Glow Daily Practice</h3>
-
-<p><em>Shipped · iPhone, iPad, and widgets</em><br>
-A calm habit tracker built around daily rhythm, visible momentum, useful reminders, and celebration without pressure.<br>
-<a href="https://donnoel.github.io/Glow/"><strong>Project page</strong></a> · <a href="https://apps.apple.com/us/app/glow-daily-practice/id6755254758">App Store</a> · <a href="https://github.com/donnoel/Glow">Source</a></p>
-
-<h3><img src="./assets/apps/beam.svg" width="48" alt="Beam project mark" align="middle">&nbsp; Beam</h3>
-
-<p><em>Systems · Web and Raspberry Pi</em><br>
-Local-first digital signage designed around continuous playback, deliberate publishing, honest status, and boringly reliable recovery.<br>
-<a href="https://donnoel.github.io/beamscreens/"><strong>Project page</strong></a> · <a href="https://github.com/donnoel/beamscreens">Public overview</a></p>
-
-<h3><img src="./assets/apps/agents-house.svg" width="48" alt="Agents House project mark" align="middle">&nbsp; Agents House</h3>
-
-<p><em>Exploring · Native macOS and AI</em><br>
-A foundation for small AI residents whose requests, permissions, actions, and accountability stay visible to the person in charge.<br>
-<a href="https://donnoel.github.io/AgentsHouse/"><strong>Project page</strong></a> · <a href="https://github.com/donnoel/AgentsHouse">Source</a></p>
 
 ## Shipped on the App Store
 
@@ -75,19 +73,38 @@ A foundation for small AI residents whose requests, permissions, actions, and ac
   <a href="https://apps.apple.com/us/developer/don-noel/id1852862173"><strong>View the complete App Store collection →</strong></a>
 </p>
 
-## Current projects
+## Portfolio status
 
-### Apple & Android
+<p><sub>Status snapshot · October 2026. Private products are named without exposing their repositories or operating infrastructure.</sub></p>
 
-[Briefly](https://github.com/donnoel/Briefly) ([page](https://donnoel.github.io/Briefly/)) · [Chicane](https://github.com/donnoel/Chicane) ([page](https://donnoel.github.io/Chicane/)) · [Glow for Android](https://github.com/donnoel/GlowAndroid) ([page](https://donnoel.github.io/GlowAndroid/)) · [Ketch](https://github.com/donnoel/Ketch) ([page](https://donnoel.github.io/Ketch/)) · [Tick](https://github.com/donnoel/Tick) ([page](https://donnoel.github.io/Tick/))
+### Shipping and operating
 
-### AI & macOS
+- <code>OPERATIONAL</code> **Beam** — Production digital signage with a web console, native operations companion, and local-first Raspberry Pi playback. [Public overview](https://donnoel.github.io/beamscreens/)
+- <code>SHIPPED</code> **Coloring Room** — iPad and Apple Pencil coloring studio. [Project page](https://donnoel.github.io/Coloring/) · [App Store](https://apps.apple.com/us/app/coloring-room/id6761619332)
+- <code>SHIPPED</code> **Glow Daily Practice** — Habit tracking, reminders, and widgets for iPhone and iPad. [Project page](https://donnoel.github.io/Glow/) · [App Store](https://apps.apple.com/us/app/glow-daily-practice/id6755254758)
+- <code>SHIPPED</code> **Pause for a Moment** — Minimal mindfulness and breathing sessions. [Project page](https://donnoel.github.io/Pause/) · [App Store](https://apps.apple.com/us/app/pause-for-a-moment/id6755661954)
+- <code>SHIPPED</code> **Driftly Night** — Ambient motion and color for iPhone, iPad, and Apple TV. [Project page](https://donnoel.github.io/Driftly/) · [App Store](https://apps.apple.com/us/app/driftly-night/id6758164205)
+- <code>SHIPPED</code> **Easy Units** — Fast, reversible unit conversion for iPhone and iPad. [Project page](https://donnoel.github.io/Conversion/) · [App Store](https://apps.apple.com/us/app/easy-units/id6761770180)
 
-[Agents House](https://github.com/donnoel/AgentsHouse) ([page](https://donnoel.github.io/AgentsHouse/)) · [Loom](https://github.com/donnoel/Loom) ([page](https://donnoel.github.io/Loom/)) · [Project Pilot](https://github.com/donnoel/ProjectPilot) ([page](https://donnoel.github.io/ProjectPilot/))
+### Active builds
 
-### Web & devices
+- <code>PRE-RELEASE</code> **Puzzles Puzzles Puzzles (Mosa)** — Private native and web product for designing, ordering, and safely fulfilling personalized photo puzzles.
+- <code>DEVELOPMENT</code> **Dayhand** — Private platform for bounded digital employees with visible work, evidence, permissions, and human accountability.
+- <code>PILOT</code> **Red Ridge Fire Company** — Private fire-response workflow for individual OF-297 entry, review, approval, and controlled finance handoff.
+- <code>ACTIVE</code> [**Tonight**](https://github.com/donnoel/Tonight) — iPad-first personal movie recommendations from a user-owned library.
+- <code>ACTIVE</code> [**Chicane**](https://github.com/donnoel/Chicane) — Friendly Formula 1 and MotoGP podium picks with exact scoring. [Project page](https://donnoel.github.io/Chicane/)
+- <code>ACTIVE</code> [**Tick**](https://github.com/donnoel/Tick) — Lightweight timekeeping for understanding where time goes. [Project page](https://donnoel.github.io/Tick/)
+- <code>IN DEVELOPMENT</code> [**Glow for Android**](https://github.com/donnoel/GlowAndroid) — Jetpack Compose translation of Glow's daily-practice rhythm. [Project page](https://donnoel.github.io/GlowAndroid/)
 
-[Beam](https://github.com/donnoel/beamscreens) ([page](https://donnoel.github.io/beamscreens/)) · [Pulseboard](https://github.com/donnoel/Pulseboard) ([page](https://donnoel.github.io/Pulseboard/))
+### Labs, tools, and earlier projects
+
+- <code>EXPLORATION</code> [**Agents House**](https://github.com/donnoel/AgentsHouse) — Permission-bounded AI residents for macOS. [Project page](https://donnoel.github.io/AgentsHouse/)
+- <code>EXPLORATION</code> [**Briefly**](https://github.com/donnoel/Briefly) — Focused study decks, sessions, and reviewed content generation. [Project page](https://donnoel.github.io/Briefly/)
+- <code>LEARNING PROJECT</code> [**Ketch**](https://github.com/donnoel/Ketch) — A small SpriteKit arcade loop. [Project page](https://donnoel.github.io/Ketch/)
+- <code>EXPLORATION</code> [**Loom**](https://github.com/donnoel/Loom) — Private, offline-first local AI workspace for macOS. [Project page](https://donnoel.github.io/Loom/)
+- <code>TOOL</code> [**Project Pilot**](https://github.com/donnoel/ProjectPilot) — macOS menu-bar utility for creating known-good Xcode projects. [Project page](https://donnoel.github.io/ProjectPilot/)
+- <code>EXPLORATION</code> [**Pulseboard**](https://github.com/donnoel/Pulseboard) — Map-first view of live public safety and natural-event signals. [Project page](https://donnoel.github.io/Pulseboard/)
+- <code>PERSONAL PROJECT</code> [**Garmin Watch Faces**](https://github.com/donnoel/Garmin) — Custom Connect IQ watch-face experiments.
 
 ## How I build
 
