@@ -5,6 +5,15 @@
 </picture>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Platforms-Apple%20%2B%20Web%20%2B%20Devices-blue?logo=apple&logoColor=white" alt="Platforms: Apple + Web + Devices">
+  <img src="https://img.shields.io/badge/Work-Products%20%2B%20Tools-purple?logo=github&logoColor=white" alt="Work: Products + Tools">
+  <img src="https://img.shields.io/badge/Focus-Reliable%20software-green" alt="Focus: Reliable software">
+</p>
+
+## ✨ Overview
+
+
+<p align="center">
   I build practical products across Apple platforms, the web, and connected devices.<br>
   From shipped apps to field systems, the work stays focused, visible, and reliable.
 </p>
@@ -92,7 +101,7 @@
 - <code>DEVELOPMENT</code> **Dayhand** — Private platform for bounded digital employees with visible work, evidence, permissions, and human accountability.
 - <code>PILOT</code> **Red Ridge Fire Company** — Private fire-response workflow with completed demo implementation for individual OF-297 entry, review, approval, and controlled finance handoff. Client commercial approval remains unconfirmed.
 - <code>ACTIVE</code> [**Tonight**](https://github.com/donnoel/Tonight) — iPad-first personal movie recommendations from a user-owned library with implemented private CloudKit library sync.
-- <code>ACTIVE</code> [**Chicane**](https://github.com/donnoel/Chicane) — Friendly Formula 1 and MotoGP podium picks with exact scoring. [Project page](https://donnoel.github.io/Chicane/)
+- <code>ACTIVE</code> [**The Podium**](https://github.com/donnoel/Chicane) — Friendly Formula 1 and MotoGP podium picks with exact scoring. [Project page](https://donnoel.github.io/Chicane/)
 
 ### Completed current work
 
@@ -112,7 +121,7 @@ Archived on October 18, 2026; code, history, public visibility, and issues are p
 - <code>ARCHIVED</code> [**Agents House**](https://github.com/donnoel/AgentsHouse) — Permission-bounded AI residents for macOS. [Project page](https://donnoel.github.io/AgentsHouse/)
 - <code>ARCHIVED</code> [**Briefly**](https://github.com/donnoel/Briefly) — Focused study decks, sessions, and reviewed content generation. [Project page](https://donnoel.github.io/Briefly/)
 - <code>ARCHIVED</code> [**Ketch**](https://github.com/donnoel/Ketch) — A small SpriteKit arcade loop. [Project page](https://donnoel.github.io/Ketch/)
-- <code>ARCHIVED</code> [**Pulseboard**](https://github.com/donnoel/Pulseboard) — Map-first view of live public safety and natural-event signals. [Project page](https://donnoel.github.io/Pulseboard/)
+- <code>ARCHIVED</code> [**Earth Pulse**](https://github.com/donnoel/Pulseboard) — Map-first view of live public safety and natural-event signals. [Project page](https://donnoel.github.io/Pulseboard/)
 - <code>ARCHIVED</code> [**Garmin Watch Faces**](https://github.com/donnoel/Garmin) — Custom Connect IQ watch-face experiments.
 - <code>ARCHIVED</code> [**Glow for Android**](https://github.com/donnoel/GlowAndroid) — Jetpack Compose translation of Glow's daily-practice rhythm. [Project page](https://donnoel.github.io/GlowAndroid/)
 
